@@ -1,0 +1,26 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+env/
+venv/
+.venv/
+
+# Модели
+*.model
+*.bin
+
+# Секреты и конфиги
+*.env
+.env.*
+secrets.json
+config.yaml
+
+# Редакторы / IDE
+.vscode/
+.idea/
+.DS_Store
